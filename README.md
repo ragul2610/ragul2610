@@ -1,4 +1,3 @@
-<h1 align="center">https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fdata-analyst&psig=AOvVaw1rNgVUB__-lIw0B37nW3cK&ust=1698211045686000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD5yKX3jYIDFQAAAAAdAAAAABAD</h1>
 
 <h1 align="center">Hi 👋, I'm Ragul</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
