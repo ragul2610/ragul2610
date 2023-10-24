@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-alt="https://www.linkedin.com/in/ragul26/" height="30" width="40" /></a>
+"https://www.linkedin.com/in/ragul26/"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
