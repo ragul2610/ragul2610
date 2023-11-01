@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate Data Science Enthusiast from India
 -----------------------------------------------
 
-All of my projects are available at https://github.com/ragul2610 💬 Ask me about Excel,Sql,Python,Tableau,Data Analytics ⚡ Fun fact ♥️ Photography 📷 Traveling 🌏 Riding
+All of my projects are available at https://github.com/ragul2610 
+💬 Ask me about Excel,Sql,Python,Tableau,Data Analytics 
+⚡ Fun fact ♥️ Photography 📷 Traveling 🌏 Riding
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [raguls2610@gmail.com](mailto:raguls2610@gmail.com)
