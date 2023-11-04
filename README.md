@@ -1,10 +1,24 @@
 # 💫 About Me:
-  Hi My name is Ragul S..
-    A passionate Data Science Enthusiast from India..
- ⭐All of my projects are available at https://github.com/ragul2610
+                                                        𝐇𝐢 𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐑𝐚𝐠𝐮𝐥 𝐒..                                            
+                                                        
+                                                        
+                                              𝐀 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐄𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 𝐟𝐫𝐨𝐦 𝐈𝐧𝐝𝐢𝐚..👩🏻‍💻📉📊📈
+
+
+⭐All of my projects are available at https://github.com/ragul2610
+
+ 
  💬 Ask me about Excel,Sql,Python,Tableau,Data Analytics ⚡ 
+
+ 
   Fun fact ♥️ Photography 📷 Traveling 🌏 Riding
-  🌍  I'm based in India<br>✉️  You can contact me at raguls2610@gmail.com<br>🧠  I'm learning Data science
+
+  
+  🌍  I'm based in India<br>
+  
+  ✉️ You can contact me at raguls2610@gmail.com<br>
+  
+  🧠  I'm learning Data science
 
 
 ## 🌐 Socials:
