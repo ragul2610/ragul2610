@@ -15,7 +15,7 @@
   
   🌍  I'm based in India<br>
   
-  ✉️ You can contact me at raguls2610@gmail.com<br>
+  ✉️ You can contact me at ragulofficial2000@gmail.com<br>
   
   🧠  I'm learning Data science
 
