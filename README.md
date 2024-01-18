@@ -17,7 +17,7 @@
   
   ✉️ You can contact me at ragulofficial2000@gmail.com<br>
   
-  🧠  I'm learning Data science
+  🧠  I'm Upskilling myself in the field of Data science
 
 
 ## 🌐 Socials:
