@@ -7,7 +7,7 @@
 ⭐All of my projects are available at https://github.com/ragul2610
 
  
- 💬 Ask me about Excel,Sql,Python,Tableau,Data Analytics ⚡ 
+ 💬 Ask me about Excel,Sql,Python,Tableau,PowerBI,Data Analytics ⚡ 
 
  
   Fun fact ♥️ Photography 📷 Traveling 🌏 Riding
